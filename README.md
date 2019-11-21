@@ -20,3 +20,5 @@ Because of the complexity of building the motor mechanism to time the batter dis
 <p align="center">
   <img src="2NuVBfliRa2pzbuoYYW1BQ.jpg" width="350" height="350">
 </p>
+
+[Video of Solenoid Valves Working](https://youtu.be/vz8qwGRgB_o)

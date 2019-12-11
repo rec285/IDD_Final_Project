@@ -36,6 +36,8 @@ Because of the complexity of building the motor mechanism to time the batter dis
 - [Food-Safe tubing]()
 
 
+## Our Process
+We based our circuit design and implementation on [this video](https://www.youtube.com/watch?v=ioSYlxHlYdI) for setting up the solonoid valves. They are connected to an arduinio running [this code](https://github.com/rec285/IDD_Final_Project/blob/master/bot_tender.ino) that accepts the input from the pi and controls the timing for opening and closing of the valves. The Raspberry Pi runs [this code](https://github.com/rec285/IDD_Final_Project/blob/master/server.js) based off Labs 6 and 7 to set up the websocket and takes input from the mobile app to push to the arduino. The mobile app uses [this code](https://github.com/rec285/IDD_Final_Project/tree/master/BotTender) to set up the interface and send the user selections over the web socket.
 <p align="center">
   <img src="2NuVBfliRa2pzbuoYYW1BQ.jpg" width="350" height="350">
 </p>

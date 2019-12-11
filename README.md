@@ -27,13 +27,14 @@ Because of the complexity of building the motor mechanism to time the batter dis
 </p>
 
 ### Parts Used
-- [2 solonoid valves]()
-- [4 module relay circuit]()
-- [Diodes]()
+- [2 solonoid valves](https://www.youtube.com/redirect?q=http%3A%2F%2Famzn.to%2F2z9hpg3&redir_token=b63ZicTbiwcUp73I4HMTbfcTrKp8MTU3NjE4NzczM0AxNTc2MTAxMzMz&event=video_description&v=ioSYlxHlYdI)
+- [4 module relay circuit](https://www.youtube.com/watch?v=0BNcI8jMcXE)
+- [Diodes](https://www.youtube.com/redirect?q=http%3A%2F%2Famzn.to%2F2hIKeZz&redir_token=b63ZicTbiwcUp73I4HMTbfcTrKp8MTU3NjE4NzczM0AxNTc2MTAxMzMz&event=video_description&v=ioSYlxHlYdI)
+- [12V Power Supply to control valves](https://www.youtube.com/redirect?q=http%3A%2F%2Famzn.to%2F2zbKp6O&redir_token=b63ZicTbiwcUp73I4HMTbfcTrKp8MTU3NjE4NzczM0AxNTc2MTAxMzMz&event=video_description&v=ioSYlxHlYdI)
 - Arduino
 - Raspberry Pi
-- [Food-Safe Squeeze Bottles]()
-- [Food-Safe tubing]()
+- [Food-Safe Squeeze Bottles](https://smile.amazon.com/gp/product/B00OZOW6E0/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
+- [Food-Safe tubing](https://smile.amazon.com/gp/product/B01CGVJ9OI/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 
 
 ## Our Process

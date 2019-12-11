@@ -48,6 +48,6 @@ We based our circuit design and implementation on [this video](https://www.youtu
 </p>
 
 
-[Video of Solenoid Valves Working](https://youtu.be/vz8qwGRgB_o)
-[Video of App Working](https://youtu.be/vz8qwGRgB_o)
-[Video of Final Demo](https://youtu.be/vz8qwGRgB_o)
+-[Video of Solenoid Valves Working](https://youtu.be/vz8qwGRgB_o)
+-[Video of App Working](https://youtu.be/kP_GUIwDQAw)
+-[Video of Final Demo](https://youtu.be/LwxMWiHH5p4)

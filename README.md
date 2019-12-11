@@ -22,6 +22,9 @@ Because of the complexity of building the motor mechanism to time the batter dis
 </p>
 
 ### State Diagram
+<p align="center">
+  <img src="IMG_BAAC0B2F1339-1.jpeg">
+</p>
 
 ### Parts Used
 

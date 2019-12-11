@@ -44,7 +44,7 @@ We based our circuit design and implementation on [this video](https://www.youtu
 </p>
 
 <p align="center">
-  <img src="73497974_546166092849097_640673446841286656_n.jpg">
+  <img src="73497974_546166092849097_640673446841286656_n.jpg" width="350" height="700">
 </p>
 
 

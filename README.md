@@ -27,7 +27,13 @@ Because of the complexity of building the motor mechanism to time the batter dis
 </p>
 
 ### Parts Used
-
+- [2 solonoid valves]()
+- [4 module relay circuit]()
+- [Diodes]()
+- Arduino
+- Raspberry Pi
+- [Food-Safe Squeeze Bottles]()
+- [Food-Safe tubing]()
 
 
 <p align="center">
